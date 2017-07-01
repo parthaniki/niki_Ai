@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43275" started-at="2017-07-01T11:35:09Z" finished-at="2017-07-01T11:35:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43275" started-at="2017-07-01T11:35:09Z" finished-at="2017-07-01T11:35:52Z">
+      <class name="com.techbins.niki.CreateReminderNiki">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.techbins.niki.CreateReminderNiki@3ab39c39]" name="setUp" is-config="true" duration-ms="20260" started-at="2017-07-01T17:05:09Z" description="To start appium server and open niki app" finished-at="2017-07-01T17:05:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="openAmazonApplication()[pri:0, instance:com.techbins.niki.CreateReminderNiki@3ab39c39]" name="openAmazonApplication" duration-ms="21765" started-at="2017-07-01T17:05:29Z" finished-at="2017-07-01T17:05:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAmazonApplication -->
+        <test-method status="PASS" signature="end()[pri:0, instance:com.techbins.niki.CreateReminderNiki@3ab39c39]" name="end" is-config="true" duration-ms="1226" started-at="2017-07-01T17:05:51Z" description="To stop driver and appium server" finished-at="2017-07-01T17:05:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.techbins.niki.CreateReminderNiki -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
